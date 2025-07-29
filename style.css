@@ -9,6 +9,11 @@ header {
   background-image: url("moon.jpg");
   background-size: 100%, auto;
   color: white;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 p {
