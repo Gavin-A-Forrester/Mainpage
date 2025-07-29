@@ -4,9 +4,9 @@ body {
 
 header {
   text-align: center;
-  text-justify: center;
   height: 1000px;
   background-image: url("moon.jpg");
+  background-size: 100uv 1000px;
   color: white;
 }
 
