@@ -4,7 +4,7 @@ body {
 
 header {
   text-align: center;
-  background-image: url(moon.jpg);
+  background-image: url("moon.jpg");
   color: white;
 }
 
