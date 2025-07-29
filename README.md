@@ -2,4 +2,4 @@
 [paper](https://github.com/Gavin-A-Forrester)
 
 ## Contacts
-[E-Mail](gavinanthonyforrester@gmail.com)
+[E-Mail](mailto:gavinanthonyforrester@gmail.com)
