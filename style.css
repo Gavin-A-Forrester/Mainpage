@@ -4,7 +4,8 @@ body {
 
 header {
   text-align: center;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 p {
