@@ -1,2 +1,5 @@
 ## Mathematics Papers
-[maths-paper](https://github.com/Gavin-A-Forrester)
+[paper](https://github.com/Gavin-A-Forrester)
+
+##Contacts
+[E-Mail](gavinanthonyforrester@gmail.com)
