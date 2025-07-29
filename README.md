@@ -1,7 +1,1 @@
-## Mathematics Papers
-[Paper](https://github.com/Gavin-A-Forrester)
-
-___
-
-## Contacts
-[E-Mail](mailto:gavinanthonyforrester@gmail.com)
+To link all my repositories' downloadables in one place
