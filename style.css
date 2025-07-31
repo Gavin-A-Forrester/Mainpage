@@ -29,5 +29,5 @@ p {
 }
 
 footer {margin-top: auto;}
-.page {display: flex;}
+.page {display: flex; flex-direction: column; height: 100%;}
 .focus {align-self: center;}
