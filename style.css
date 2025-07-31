@@ -29,4 +29,5 @@ p {
 }
 
 footer {margin-top: auto;}
-.focus{align-self: center;}
+.page {display: flex;}
+.focus {align-self: center;}
