@@ -8,13 +8,14 @@ header {
   height: 200px;
   background-image: url("moon.jpg");
   color: white;
-
+  
   background-attachment: fixed;
-  background-position: center;
+  background-position: center top 200px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 p {
-  padding: 20px;
+  padding: 5px;
+  padding-left: 10px;
 }
