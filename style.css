@@ -11,7 +11,7 @@ header {
   align-items: center;
   justify-content: center;
 
-  min-height: 25vw;
+  height: 25vw;
   background-image: url("moon.jpg");
   color: white;
   
