@@ -28,6 +28,13 @@ p {
   color: darkslategray;
 }
 
+a {
+  padding: 5px;
+  padding-left: 10px;
+
+  color: green;
+}
+
 footer {margin-top: auto;}
 .page {display: flex; flex-direction: column; height: 100%; margin: 0px; padding: 20px;}
 .focus {align-self: center;}
