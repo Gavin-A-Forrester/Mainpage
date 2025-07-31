@@ -3,8 +3,10 @@ body {
 }
 
 header {
-  text-align: center;
-  line-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   height: 200px;
   background-image: url("moon.jpg");
   color: white;
