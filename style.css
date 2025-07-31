@@ -1,7 +1,6 @@
 body {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   padding: 20px;
 }
 
@@ -25,4 +24,8 @@ p {
   padding-left: 10px;
 
   color: darkslategray;
+}
+
+footer {
+  justify-self: end;
 }
